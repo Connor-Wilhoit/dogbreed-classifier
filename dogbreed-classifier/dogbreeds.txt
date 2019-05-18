@@ -1,0 +1,19 @@
+-- Here are all the `classes` (dog breeds) we'll be classifying:
+-
+- (1) german_shepherd
+- (2) poodle
+- (3) pitbull
+- (4) boxer
+- (5) retriever_labrador
+- (6) retriever_golden
+- (7) french_bulldog
+- (8) bulldog
+- (9) beagle
+- (10) rottweiler
+- (11) yorkshire_terrier
+- (12) pointer_german_shorthaired
+- (13) siberian_husky
+- (14) dachshund
+- (15) great_dane
+
+-- Total # of classes: 15
